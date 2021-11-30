@@ -3,56 +3,56 @@
         "key": "1",
         "id": "a1",
         "name": "Waves Photography",
-        "projectImg": "https://i.postimg.cc/j5CPQh3R/cyclemart-niche.png",
+        "projectImg": "https://i.ibb.co/Tqq0fLG/project1.png",
         "description": "This is a niche category website. I've made with react, firebase and mongoDB",
-        "projectLink": "https://cyclemart-007.web.app/",
-        "clientCode": "https://github.com/DruboSaptapan/Cycle-mart-client-side",
-        "serverCode": "https://github.com/DruboSaptapan/Cycle-mart-server-side"
+        "projectLink": "https://waves-photography.web.app/",
+        "clientCode": "https://github.com/ihrimon/waves-photography-website",
+        "serverCode": "https://github.com/ihrimon/waves-photography-server-code"
     },
     {
         "key": "2",
         "id": "b2",
         "name": "Wonder Travel",
-        "projectImg": "https://i.postimg.cc/Hj1Mm1YL/heaven-peace-tourist.png",
+        "projectImg": "https://i.ibb.co/gJMsdmM/project2.png",
         "description": "This is a tourist website. i've made with react firebase and mongoDB",
-        "projectLink": "https://heaven-peace.web.app/",
-        "clientCode": "https://github.com/DruboSaptapan/Heaven-Peace-client-side",
-        "serverCode": "https://github.com/DruboSaptapan/Heaven-Peace-server-side"
+        "projectLink": "https://wonder-travel-a6b6a.web.app/home",
+        "clientCode": "https://github.com/ihrimon/wonder-travel-website",
+        "serverCode": "https://github.com/ihrimon/wonder-travel-server-code"
     },
     {
         "key": "3",
         "id": "c3",
         "name": "Medical Care",
-        "projectImg": "https://i.postimg.cc/PxcZ680Y/fetoscope-health-care.png",
+        "projectImg": "https://i.ibb.co/WvvQCGq/project3.png",
         "description": "This is a health care website. I've made with react and firebase",
-        "projectLink": "https://fetoscope-health-care.web.app/",
-        "clientCode": "https://github.com/DruboSaptapan/Fetoscope-healthcare-website"
+        "projectLink": "https://medical-care-a1679.web.app/",
+        "clientCode": "https://github.com/ihrimon/medical-care-website"
     },
     {
         "key": "4",
         "id": "d4",
         "name": "Honda CBR",
-        "projectImg": "https://i.postimg.cc/sDz2vZKx/web-developer-community.png",
+        "projectImg": "https://i.ibb.co/fCjp6Vn/project4.png",
         "description": "This website helps you to choice web developers.",
-        "projectLink": "https://drubo-creating-a-website.netlify.app/",
-        "clientCode": "https://github.com/DruboSaptapan/Creative-web-developer-community"
+        "projectLink": "https://honda-cbr-webpixi.netlify.app/",
+        "clientCode": "https://github.com/ihrimon/honda-cbr"
     },
     {
         "key": "5",
         "id": "E5",
-        "name": "Web Developer Agency",
-        "projectImg": "https://i.postimg.cc/PfB2DNNP/oyindamola-portfolio.png",
+        "name": "Online Educato",
+        "projectImg": "https://i.ibb.co/Qdhpk7X/project5.png",
         "description": "This website is dark portfolio.",
-        "projectLink": "https://drubosaptapan.github.io/Oyindamola-portfolio/",
+        "projectLink": "https://web-developer-agency-webpixi.netlify.app/",
         "clientCode": "https://github.com/DruboSaptapan/Oyindamola-portfolio"
     },
     {
         "key": "6",
         "id": "f6",
         "name": "Football Club",
-        "projectImg": "https://i.postimg.cc/J0BPsHXc/agency-website.png",
+        "projectImg": "https://i.ibb.co/yhyd5Hb/project6.png",
         "description": "This website helps you to choice web developers.",
-        "projectLink": "https://drubosaptapan.github.io/agency-website/",
-        "clientCode": "https://github.com/DruboSaptapan/agency-website"
+        "projectLink": "https://ihrimon.github.io/football-club/",
+        "clientCode": "https://github.com/ihrimon/football-club"
     }
 ]
